@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Center1
   - Center2
+  - Center3
+  - Center4
+  - FallChecker
+  - Obstacle
+  - Ball
   layers:
   - Default
   - TransparentFX
